@@ -161,7 +161,7 @@
           }
         },
         {
-          "title": "Sample of Kafka Requests",
+          "title": "Kafka Spans",
           "layout": {
             "column": 1,
             "row": 10,
