@@ -5,7 +5,6 @@
     "px.cluster.id": "abcdef",
     "metricName": "redis.latency",
     "instrumentation.provider": "pixie",
-    "k8s.cluster.name": "test_cluster",
-    "redis.req_cmd": "HMGET"
+    "k8s.cluster.name": "test_cluster"
   }
 ]
